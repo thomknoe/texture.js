@@ -1,6 +1,6 @@
 ![Close-up of a wooden cylindrical object placed on paper with colorful abstract line patterns in red, blue, and yellow surrounding its base.](https://github.com/thomknoe/texture.js/blob/main/github-cover.png)
 
-# _Texture_, 2024
+# Texture, 2024
 
 _Pine wood, stepper and servo motors, ink pens_
 
